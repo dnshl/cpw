@@ -1,3 +1,3 @@
-module Cpw
-  VERSION = "0.1.0"
+module CPW
+  VERSION = '0.1.0'
 end

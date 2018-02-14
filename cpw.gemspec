@@ -5,7 +5,7 @@ require "cpw/version"
 
 Gem::Specification.new do |spec|
   spec.name          = "cpw"
-  spec.version       = Cpw::VERSION
+  spec.version       = CPW::VERSION
   spec.authors       = ["Dennis Hall"]
 
   spec.summary       = %q{cpw - change password command line tool}

@@ -1,5 +1,7 @@
 require "cpw/version"
 
-module Cpw
-  # Your code goes here...
+module CPW
+  def self.hi
+    puts 'Hello world!'
+  end
 end
